@@ -8,7 +8,8 @@ Berikut adalah tata cara menggunakan source code dari ANN
 
 1. Pastikan Python versi 3.7 ke atas tersedia (program ini dibuat dengan Python 3.8.5)
 2. Pastikan terdapat library numpy, pandas, matplotlib
-3. Lakukan import source code
+3. Siapkan file ipynb untuk dapat melihat plot dari lossnya
+4. Lakukan import source code
 
 ```python
 from src.ann import ANNClassifier, Layer
